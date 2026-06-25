@@ -1,4 +1,4 @@
-v. 0.1 (25/06/2026) - Relato de inicio de jornada de aprendizado
+v. 1.0 (25/06/2026) - Relato de inicio de jornada de aprendizado
 
 # Portifólio de Aprendizado
 
