@@ -1,5 +1,7 @@
 v. 0.1 (25/06/2026) - Relato de inicio de jornada de aprendizado
 
+# Portifólio de Aprendizado
+
 # Olá! Eu sou o Édi 👋
 ### Analista de Dados | Foco em UX (Power BI) & Data Storytelling 📊
 
